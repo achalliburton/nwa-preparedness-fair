@@ -151,11 +151,15 @@ h5 {
 }
 
 .table-group2 {
-    width: 20vw;
+    width: 15vw;
 }
 
 .table-group3 {
-    width: 35vw;
+    width: 25vw;
+}
+
+.table-group4 {
+    width: 30vw;
 }
 
 .table-group-mobile {
